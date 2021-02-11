@@ -1,4 +1,4 @@
 # Visual Studio #
 #################
-Debug\*
+Debug/*
 *.vcxproj*
